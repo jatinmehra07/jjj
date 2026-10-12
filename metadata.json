@@ -1,0 +1,6 @@
+{
+  "name": "SIF360 - Indian Specialised Investment Funds Analytics",
+  "description": "Real-time analytics web dashboard for Indian Specialised Investment Funds (SIFs) — tracking daily AMFI NAVs, quarterly AAUM, and long-short alternative mutual fund strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
